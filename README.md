@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Guilherme Augusto 🙋‍♂️
 
 - 🖥 Estudante de programação Front-End
-- ⌨️ Desde pequeno estive ligado com a tecnologia
+- ⌨️ Apaixonado por tecnologia desde pequeno
 - ⌚️ Sigo no aprendizado, e em constante evolução...
 
 <div align="center">
